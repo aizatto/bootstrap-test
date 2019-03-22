@@ -1,7 +1,7 @@
 {
   "private": true,
 	"devDependencies": {
-		"lerna": "^2.4.0",
+		"lerna": "^3.13.1",
     "watch": "^1.0.2",
     "npm-run-all": "^4.1.1"
 	},
