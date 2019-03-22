@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "bootstrap": "3"
+    "bootstrap": "4.3.1"
   }
 }
